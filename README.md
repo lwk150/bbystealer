@@ -1,4 +1,4 @@
-#####  [:gem: Premium](https://discord.gg/RBnK3ny) - [🔧 Builder](https://github.com/lwk150/bbystealer/) - [💡 Features](https://github.com/lwk150/bbystealer/) 
+#####  [:gem: Premium](https://discord.gg/RBnK3ny) - [🔧 Builder](https://github.com/lwk150/bbystealer/releases/tag/discord) - [💡 Features](https://github.com/lwk150/bbystealer/) 
 
 
 # bbystealer
